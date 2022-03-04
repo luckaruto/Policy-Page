@@ -133,23 +133,7 @@ export const sections = [
               services. Google may use the Data collected to contextualize and
               personalize the ads of its own advertising network. Personal Data
               processed: Cookies; Usage Data. <br />
-              Place of processing: United States –&nbsp;
-              <a
-                href="https://policies.google.com/privacy"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Privacy Policy
-              </a>
-              &nbsp;–&nbsp;
-              <a
-                href="https://tools.google.com/dlpage/gaoptout?hl=en"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Opt Out
-              </a>
-              ; Ireland –&nbsp;
+              Place of processing:&nbsp;
               <a
                 href="https://policies.google.com/privacy"
                 target="_blank"
