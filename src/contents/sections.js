@@ -167,26 +167,6 @@ export const sections = [
               </a>
               .
             </li>
-            <li>
-              <b>Google AdSense: </b>
-              Google AdSense is an advertising service provided by Google
-              Ireland Limited. This service uses the “DoubleClick” Cookie, which
-              tracks use of Meow Playground and User behavior concerning ads,
-              products and services offered. Users may decide to disable all the
-              DoubleClick Cookies by going to: Google Ad Settings. Personal Data
-              processed: Cookies; Usage Data. Place of processing: Ireland –
-              <a
-                href="https://policies.google.com/privacy"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Privacy Policy
-              </a>
-              &nbsp;–&nbsp;
-              <a href="https://adssettings.google.com/authenticated#display_optout">
-                Opt Out
-              </a>
-            </li>
           </ul>
         </span>
       </>
