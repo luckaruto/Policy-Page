@@ -1,10 +1,16 @@
+@import url('http://fonts.cdnfonts.com/css/roboto');
+
 .app {
   display: flex;
   flex: 1;
   flex-direction: column;
   text-align: left;
   min-width: 360px;
-  font-family: "sans-serif";
+  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Roboto Thin', sans-serif;
+  font-family: 'Roboto Light', sans-serif;
+  font-family: 'Roboto Medium', sans-serif;
+  font-family: 'Roboto Black', sans-serif; */
   min-height: 100vh;
 }
 
