@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>Bonfire Privacy Policy</h1>
-        <span>Effective date: March 3, 2022,</span>
+        <h1>Crypto Creatures Privacy Policy</h1>
+        <span>Effective date: March 3, 2025,</span>
       </header>
       {sections.map((section, idx) => (
         <Section title={`${idx + 1}. ${section.title}`}>
@@ -15,7 +15,6 @@ function App() {
         </Section>
       ))}
       <footer className="footer">
-        <span>Copyright @ 2022 bonfire-io,&nbsp;</span>
         <span>All Rights Reserved</span>
       </footer>
     </div>

@@ -3,8 +3,8 @@ export const sections = [
     title: "Introduction",
     contents: (
       <span>
-        Welcome to bonfire's Privacy Policy. We want to keep your privacy
-        "safe". <br />
+        Welcome to Crypto Creatures' Privacy Policy. We want to keep your
+        privacy "safe". <br />
       </span>
     ),
   },
@@ -14,20 +14,10 @@ export const sections = [
       <>
         <ul>
           <li>
-            <b>Owner and Data Controller: </b>bonfire-io <br />
+            <b>Owner and Data Controller: </b>Crypto Creatures-io <br />
           </li>
           <li>
-            <b>Email:</b> peopleundercloud@gmail.com <br />
-          </li>
-          <li>
-            <b>Github Project:</b>
-            <a
-              href="https://github.com/bonfire-io/bonfire"
-              target="_blank"
-              rel="noreferrer"
-            >
-              https://github.com/bonfire-io/bonfire
-            </a>
+            <b>Email:</b> trung0905042@gmail.com <br />
           </li>
         </ul>
       </>
@@ -41,7 +31,8 @@ export const sections = [
           <li>
             <b>Service</b>
             <br />
-            Service means the bonfire chrome extension operated by Bonfire-io.
+            Service means Crypto Creatures, a GameFi application operated by
+            Crypto Creatures-io.
           </li>
           <li>
             <b>Personal Data</b>
@@ -77,25 +68,24 @@ export const sections = [
     ),
   },
   {
-    title: "Types of Data collected",
+    title: "Types of Data Collected",
     contents: (
       <span>
-        Our system does not collect any critical personal data. (like email,
-        name, location, birth, etc) <br />
-        So, Login & Sign up do not require this informations. <br />
+        Our system does not collect any critical personal data (like email,
+        name, location, birthdate, etc.). <br />
+        Therefore, login and sign-up do not require such information. <br />
         <ol>
           <li>
-            We just collect your nickname, hashed password, and profile image in
-            sign up step.
+            We only collect your nickname, hashed password, and profile image
+            during the sign-up process.
           </li>
           <li>
-            And we collect your messages sent by you and others. Our service's
-            goal is providing message system. So, we collect and show that
-            everyone.
+            We collect messages sent by you and others as part of the Service's
+            messaging system.
           </li>
           <li>
-            And, we collect your log information from google analytics and
-            advertising. This information is described bellow.
+            We collect log information through Google Analytics and advertising
+            services. This information is described below.
           </li>
           <li>
             We also use "cookies" (and Chrome Extension Storage Sync) and other
@@ -103,36 +93,35 @@ export const sections = [
             Services.
           </li>
         </ol>
-        If you find defacts on our privacy system, welcome to contact the Owner.
+        If you discover any defects in our privacy system, please contact the
+        Owner.
       </span>
     ),
   },
   {
-    title: "Who we share your personal information",
+    title: "Who We Share Your Personal Information With",
     contents: (
       <>
         <span>
-          We share your personal information with bellow third parties.
+          We share your personal information with the following third parties:
           <ul>
             <li>
-              <b>Other users: </b>
+              <b>Other Users: </b>
               They can see your profile information and any other information
               you choose to share with them through the Services.
             </li>
             <li>
               <b>Cloud Service Providers: </b>
-              We use cloud service for data storage, include Azure, GCP, AWS.
+              We use cloud services for data storage, including Azure, GCP, and
+              AWS.
             </li>
             <li>
               <b>Analytics Providers: </b>
-              Google Analytics is a web analysis service provided by Google LLC
-              or by Google Ireland Limited, depending on the location Meow
-              Playground is accessed from, (“Google”). Google utilizes the Data
-              collected to track and examine the use of Meow Playground, to
-              prepare reports on its activities and share them with other Google
-              services. Google may use the Data collected to contextualize and
-              personalize the ads of its own advertising network. Personal Data
-              processed: Cookies; Usage Data. <br />
+              We use Google Analytics to track and examine the use of Crypto
+              Creatures, prepare reports on its activities, and share them with
+              other Google services. Google may use the Data collected to
+              contextualize and personalize ads. Personal Data processed
+              includes Cookies and Usage Data. <br />
               Place of processing:&nbsp;
               <a
                 href="https://policies.google.com/privacy"
@@ -154,6 +143,16 @@ export const sections = [
           </ul>
         </span>
       </>
+    ),
+  },
+  {
+    title: "Your Rights",
+    contents: (
+      <span>
+        You have the right to access, rectify, erase, and restrict the
+        processing of your personal data. If you wish to exercise these rights,
+        please contact us at trung0905042@gmail.com.
+      </span>
     ),
   },
 ];
