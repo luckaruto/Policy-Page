@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/luckaruto/Policy-Page.git/static/css/main.7e826e76.css",
+    "main.js": "/luckaruto/Policy-Page.git/static/js/main.b217bf16.js",
+    "static/js/453.02d3177c.chunk.js": "/luckaruto/Policy-Page.git/static/js/453.02d3177c.chunk.js",
+    "index.html": "/luckaruto/Policy-Page.git/index.html",
+    "main.7e826e76.css.map": "/luckaruto/Policy-Page.git/static/css/main.7e826e76.css.map",
+    "main.b217bf16.js.map": "/luckaruto/Policy-Page.git/static/js/main.b217bf16.js.map",
+    "453.02d3177c.chunk.js.map": "/luckaruto/Policy-Page.git/static/js/453.02d3177c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e826e76.css",
+    "static/js/main.b217bf16.js"
+  ]
+}
